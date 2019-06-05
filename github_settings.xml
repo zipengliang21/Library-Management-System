@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="HOST" value="github.ugrad.cs.ubc.ca" />
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>

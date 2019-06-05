@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="java.io.File.File(pathname)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+    </blacklists>
+  </component>
+</application>
