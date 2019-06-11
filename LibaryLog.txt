@@ -1,0 +1,87 @@
+Wed Nov 14 16:48:22 PST 2018
+Zipeng has borrowed 1984
+The user Zipeng has borrowed [1984]
+
+Wed Nov 14 16:48:22 PST 2018
+Zipeng has borrowed CATCH-22
+The user Zipeng has borrowed [1984, CATCH-22]
+
+
+Wed Nov 14 16:50:38 PST 2018
+Zipeng has borrowed Binti
+The user Zipeng has borrowed [1984, CATCH-22, Binti]
+
+
+
+
+
+
+Mon Nov 26 15:23:45 PST 2018
+Jason return 110Textbook successfully
+The user Jason has borrowed []
+
+Mon Nov 26 15:23:45 PST 2018
+Jason has borrowed 110Textbook
+The user Jason has borrowed [110Textbook]
+
+
+
+Mon Nov 26 15:25:44 PST 2018
+Zipeng return Binti successfully
+The user Zipeng has borrowed [Amatka]
+
+Mon Nov 26 15:25:44 PST 2018
+Zipeng has borrowed Binti
+The user Zipeng has borrowed [Amatka, Binti]
+
+Mon Nov 26 15:25:44 PST 2018
+Zipeng return Binti successfully
+The user Zipeng has borrowed [Amatka]
+
+Mon Nov 26 15:25:44 PST 2018
+Zipeng has borrowed Binti
+The user Zipeng has borrowed [Amatka, Binti]
+
+
+
+
+
+
+
+
+Mon Nov 26 20:38:36 PST 2018
+Zipeng has borrowed 121
+The user Zipeng has borrowed [Amatka, Binti, 123, 121]
+
+
+
+
+
+
+
+
+
+Tue Nov 27 20:17:23 PST 2018
+Zipeng return 123 successfully
+The user Zipeng has borrowed [Amatka, Binti, 1984]
+
+
+
+Tue Nov 27 20:23:31 PST 2018
+Zipeng has borrowed 1984
+The user Zipeng has borrowed [Amatka, Binti, 123, 1984]
+
+
+
+Wed Nov 28 16:30:25 PST 2018
+Zipeng return 1984 successfully
+The user Zipeng has borrowed [Amatka, Binti, 123]
+
+
+Wed Nov 28 17:29:49 PST 2018
+Chantal has borrowed 310Textbook
+The user Chantal has borrowed [310Textbook]
+
+
+
+
